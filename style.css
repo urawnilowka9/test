@@ -3,32 +3,26 @@
   font-size: 100%;
 }
 
-#zegar{
-	background-color: rgb(162,117,87);
-	width: 7%;
-	height: 100px;
-	float: left;
-	font-size: 22px;
-
+#container{
+	width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
 }
+
+
 #menu{
 	background-color: rgb(162,117,87);
-	width: 93%;
+	width: 100%;
 	height: 100px;
 	text-align: center;
-	float: left;
+
 }
 
-#logo{
-	background: rgb(94, 55, 42);
-  width: 25%;
-	height:227px;
-	float: left;
-}
+
 #baner{
 	background: rgb(94, 55, 42);
-  width: 75%;
-	height: 227px;
+  width: 100%;
+	height: 221px;
 	text-align: center;
 	float: left;
 }
@@ -36,14 +30,14 @@
 #lewy{
 	float: left;
 		background-color: lightgray;
-		width: 18%;
+		width: 19%;
 		min-height: 711px;
 		
 	
 }
 #srodkowy{
 	float: left;
-		width: 65%;
+		width: 64%;
 }
 #prawy{
 	float: left;
