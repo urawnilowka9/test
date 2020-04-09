@@ -11,7 +11,7 @@
 
 
 #menu{
-	background-color: rgb(162,117,87);
+	background-color: #d7b48e;
 	width: 100%;
 	height: 100px;
 	text-align: center;
@@ -20,11 +20,12 @@
 
 
 #baner{
-	background: rgb(94, 55, 42);
+	background: #aa753c;
   width: 100%;
 	height: 221px;
 	text-align: center;
 	float: left;
+	font-size: 130%;
 }
 
 #lewy{
