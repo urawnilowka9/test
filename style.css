@@ -112,15 +112,37 @@ a.galerry1{
 .galerysize{
 	overflow: hidden;
     padding: 0;
-   
+   width: 370px;
+   height: 370px;
 border:1px solid #000;
 }
-.gallerysize img{
+.gallerysize1 img{
     transition-duration: 3s;
    	
 }
-.gallerysize img:hover{
+.gallerysize1 img:hover{
 	 transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    z-index: 0;
+}
+
+#dogs{
+    overflow: hidden;
+    padding: 0;
+   border:1px solid #000;
+   width: 600px;
+   height: 451px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#dogs img {
+    transition-duration: 3s;
+   
+}
+#dogs img:hover {
+    transform: scale(1.2);
     -webkit-transform: scale(1.2);
     -moz-transform: scale(1.2);
     z-index: 0;
