@@ -111,16 +111,16 @@ a.galerry1{
 
 .galerysize{
 	overflow: hidden;
-    padding: 0;
-   width: 370px;
+     width: 370px;
    height: 370px;
-border:1px solid #000;
+border:1px solid red;
+;
 }
-.gallerysize1 img{
+.gallerysize img{
     transition-duration: 3s;
    	
 }
-.gallerysize1 img:hover{
+.gallerysize img:hover{
 	 transform: scale(1.2);
     -webkit-transform: scale(1.2);
     -moz-transform: scale(1.2);
