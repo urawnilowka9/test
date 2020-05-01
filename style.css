@@ -109,13 +109,12 @@ a.galerry1{
 	width: 64%;
 }
 
-.galerysize{
-	overflow: hidden;
-     width: 370px;
-   height: 370px;
-border:1px solid red;
-;
-}
+.gallerysize{
+	margin-left: 100px;
+	
+  }
+
+
 .gallerysize img{
     transition-duration: 3s;
    	
