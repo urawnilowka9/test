@@ -107,10 +107,14 @@ a.galerry1{
 #srodkowy_galeria{
 	float: left;
 	width: 64%;
+	overflow: hidden;
 }
 
 .gallerysize{
+	//overflow: hidden;
+	display: inline-block;
 	margin-left: 100px;
+	
 	
   }
 
